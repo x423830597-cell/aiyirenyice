@@ -144,10 +144,10 @@
     {
       "index": 7,
       "title": "报告小顾问：一人一策，全面展现",
-      "duration": 28.58,
-      "text": "报告小顾问支持四种报告周期，形成一人一策训练报告。总体评价汇总训练表现和改进建议。核心胜任力展示各维度评分及变化。展开详情，查看OB表现和原始评语。QAR对比个人与群体均值，识别指标偏离。趋势图展示近期变化与飞行数据分布。",
-      "file": "assets/audio/voice-report-phase-synced.mp3",
-      "audioDuration": 28.18,
+      "duration": 27.64,
+      "text": "报告小顾问支持四种报告周期，形成一人一策训练报告。总体评价汇总训练表现和改进建议。核心胜任力展示各维度评分及变化。展开详情，查看OB表现和原始评语。QAR对比个人与群体均值，识别指标偏离。可查看指标散点图及趋势。",
+      "file": "assets/audio/voice-report-scatter-trend.mp3",
+      "audioDuration": 27.24,
       "captionGroups": [
         {
           "start": 0,
@@ -171,7 +171,7 @@
         },
         {
           "start": 23.86,
-          "text": "趋势图展示近期变化与飞行数据分布。"
+          "text": "可查看指标散点图及趋势。"
         }
       ]
     },
