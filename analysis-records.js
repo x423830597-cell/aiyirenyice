@@ -16,6 +16,6 @@
  if(t>=11&&stage<1){api()?.reset();stage=1;}
  if(t>=14&&stage<2){api()?.openCommunication();stage=2;}
  if(t>=18.5&&stage<3){api()?.openWorkload();stage=3;}
- if(t>=23.5&&stage<4){api()?.close();stage=4;}
+ // Keep the final OB detail open until the next chapter; omit the trailing overview frame.
  };
 })();
